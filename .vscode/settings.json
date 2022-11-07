@@ -17,7 +17,7 @@
 
   // terminal customization
   "workbench.colorCustomizations": {
-    "terminal.background": "#11111b",
+    "terminal.background": "#1b1b2b",
     "terminal.foreground": "#ffffff",
     "terminalCursor.background": "#A89984",
     "terminalCursor.foreground": "#A89984",
@@ -27,16 +27,16 @@
     "terminal.ansiBrightBlue": "#0D6678",
     "terminal.ansiBrightCyan": "#8BA59B",
     "terminal.ansiBrightGreen": "#95C085",
-    "terminal.ansiBrightMagenta": "#8F4673",
+    "terminal.ansiBrightMagenta": "#b6ff7a",
     "terminal.ansiBrightRed": "#FB543F",
     "terminal.ansiBrightWhite": "#FDF4C1",
-    "terminal.ansiBrightYellow": "#FAC03B",
-    "terminal.ansiCyan": "#8BA59B",
+    "terminal.ansiBrightYellow": "#e2af37",
+    "terminal.ansiCyan": "#00ffff",
     "terminal.ansiGreen": "#95c085",
     "terminal.ansiMagenta": "#8F4673",
     "terminal.ansiRed": "#FB543F",
     "terminal.ansiWhite": "#A89984",
-    "terminal.ansiYellow": "#FAC03B"
+    "terminal.ansiYellow": "#ffc63f"
   },
 
   // config related to code formatting
