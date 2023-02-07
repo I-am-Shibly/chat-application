@@ -12,7 +12,7 @@
   "files.autoSave": "afterDelay",
 
   // cursor
-  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorBlinking": "expand",
 
   // terminal customization
